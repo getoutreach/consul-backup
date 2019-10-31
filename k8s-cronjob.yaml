@@ -30,8 +30,6 @@ spec:
               value: "s3-consul-backup"
             - name: CONSUL_HTTP_ADDR
               value: "https://consul.mydomain"
-            - name: INFLUXDB_URL
-              value: "https://influx.mydomain/write?db=backups"
             - name: KUBERNETES_AUTH_PATH
               value: "kube"
             - name: S3_BUCKET
