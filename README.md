@@ -1,3 +1,6 @@
+# Consul backup for Vault on Kubernetes
+Consul is the storage backend for Vault Enterprise on Kubernetes. This tool provides us with backup and restore capability.
+
 # consul-backup
 Backup a Consul cluster used as Vault storage backend and running on Kubernetes
 
